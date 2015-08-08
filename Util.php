@@ -1,6 +1,5 @@
 <?php
 /**
-加入测试的注视代码
 */
 namespace League\Flysystem;
 
